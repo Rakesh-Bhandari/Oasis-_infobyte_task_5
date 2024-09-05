@@ -76,11 +76,11 @@ pip install customtkinter Pillow
 
 ## Screenshots
 
-![Chat Application](screenshot_1.png)
-![Chat Application](screenshot_2.png)
-![Chat Application](screenshot_3.png)
-![Chat Application](screenshot_4.png)
-![Chat Application](screenshot_5.png)
+![Chat Application](Screenshots/screenshot_1.png)
+![Chat Application](Screenshots/screenshot_2.png)
+![Chat Application](Screenshots/screenshot_3.png)
+![Chat Application](Screenshots/screenshot_4.png)
+![Chat Application](Screenshots/screenshot_5.png)
 
 
 ## Future Enhancements
